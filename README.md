@@ -35,14 +35,4 @@ Conclusion
 
 This project demonstrates the automation of core LinkedIn functionalities with an emphasis on enhanced job filtering. By addressing limitations and incorporating best practices, the script can be further developed to become a valuable tool for streamlining LinkedIn activities. However, it's important to ensure responsible and ethical use within the framework of LinkedIn's Terms of Service.
 
-pen_spark
 
-
-
-
-tune
-
-share
-
-
-more_vert
